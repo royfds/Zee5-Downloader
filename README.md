@@ -1,5 +1,6 @@
 ## Zee5 Downloader
-If you find any bugs, report at @TroJanzSupport
+If you find any bugs, report at @Royfds
+Join t.me/moviezbarn
 
 **My Features**:
 
@@ -52,5 +53,5 @@ python3 bot.py
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)
+* [SpEcHlDe](https://telegram.dog/royfds) 
+* [Dan Tès](https://telegram.dog/royfds)
