@@ -6,7 +6,7 @@ I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
-Currently I'm in beta mode 🥺, If found any bugs, report @TroJanzSupport !
+Currently I'm in beta mode 🥺, If found any bugs, report @Royfds !
 
 Click <i>/help</i> for more details....</b>"""
 
@@ -16,14 +16,14 @@ Click <i>/help</i> for more details....</b>"""
 1. Send Custom Thumbnail (It will be saved permenantly!)
 
 2. Send your zee5 url and select desired option.
-
+3. Join @moviezbarn
 
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """⭕️<b>My Name : Roy Zee5 DL</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Royfds
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
@@ -55,11 +55,11 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@TroJanzHEX\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@Royfds\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TroJanzHEX</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @Royfds</b>"
     
     TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
     
